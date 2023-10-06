@@ -6,7 +6,7 @@ Update of Dyrewulfes mod
 https://github.com/Dyrewulfe/RW-FoodPoisoningStackFix
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-	
+
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # Food poisoned meals no longer taint whole stacks
